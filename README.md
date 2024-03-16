@@ -1,5 +1,7 @@
 # Improved 3rd person
 
+[![ContentDB](https://content.minetest.net/packages/fancyfinn9/improvedthirdperson/shields/title/)](https://content.minetest.net/packages/fancyfinn9/improvedthirdperson/)
+
 This mod is made for the [Capture the Flag](https://content.minetest.net/packages/rubenwardy/capturetheflag/) game for [Minetest](https://minetest.net).
 Improved 3rd person will add an extra setting to the player's settings menu, by enabling this the camera will be moved slightly to the side when in 3rd person, thus allowing you to see where you are aiming with your crosshair.
 
